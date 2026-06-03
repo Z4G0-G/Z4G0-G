@@ -1,14 +1,14 @@
-## Hola a todos soy Gonzalo! 👋
+## Hola a todos soy Gonzalo, pero me pueden decir Zago
 
 **Estudiante de Ingeniería Empresarial y de Sistemas** en la Universidad Científica del Sur (1er ciclo).
 Me interesa mucho la **ciberseguridad** y la programación en Python. Busco aplicar mis conocimientos en proyectos prácticos mientras avanzo en mi carrera.
-### Actualmente estoy aprendiendo 👨‍💻:
+### Actualmente estoy aprendiendo:
 - Python para ciberseguridad (scripts, automatización)
 - Fundamentos de redes y seguridad
 - Ethical hacking básico (TryHackMe)
-### Proyectos destacados 🔥:
+### Proyectos destacados:
 - Próximamente, aún ando trabajando en ello...
-### Objetivos a largo plazo 🫡:
+### Objetivos a largo plazo:
 - CompTIA Security+
 - Proyectos hands-on en TryHackMe y HackTheBox
   
